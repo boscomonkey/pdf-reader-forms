@@ -11,11 +11,14 @@ class PDF::Reader::PositionalTextReceiver < PDF::Reader::PageTextReceiver
 
   # record text that is drawn on the page
   def show_text(string) # Tj
-    raise PDF::Reader::MalformedPDFError, "current font is invalid" if @state.current_font.nil?
+    internal_show_text(string)
+    temp_hash = {}
+    chars = @state.current_font.to_utf8(string)
     newx, newy = @state.trm_transform(0,0)
-    @content[newy] ||= {}
-    @content[newy][newx] ||= ''
-    @content[newy][newx] << @state.current_font.to_utf8(string)
+    temp_hash[newy] ||= {}
+    temp_hash[newy][newx] ||= ''
+    temp_hash[newy][newx] = chars || ''
+    @content << temp_hash if chars
   end
 
   # override PageTextReceiver content accessor .
@@ -25,7 +28,9 @@ class PDF::Reader::PositionalTextReceiver < PDF::Reader::PageTextReceiver
   #     y_coord=>{x_coord=>text, x_coord=>text }
   #   }
   def content
-    @content
+    @content = @content.inject({}) do |hash, element|
+      hash.merge(element){|key,oldvalue,newvalue| oldvalue.merge(newvalue)}
+    end
   end
 
 end
