@@ -1,8 +1,8 @@
-# Class for reading structured text content
+# Class for reading structured text content. Some of this Class#methods were forked from PDF::Reader::Turtletext. See LICENSE file.
 #
 # Typical usage:
 #
-#   reader = PDF::Reader::Turtletext.new(pdf_filename)
+#   reader = PDF::Reader::Forms.new(pdf_filename)
 #   page = 1
 #   heading_position = reader.text_position(/transaction table/i)
 #   next_section = reader.text_position(/transaction summary/i)
@@ -11,7 +11,7 @@
 #     heading_position[y] + 1,next_section[:y] -1
 #   )
 #
-class PDF::Reader::Turtletext
+class PDF::Reader::Forms
   attr_reader :reader
   attr_reader :options
 
@@ -121,39 +121,10 @@ class PDF::Reader::Turtletext
     end
   end
 
-  # Returns a text region definition using a descriptive block.
-  #
-  # Usage:
-  #
-  #   textangle = reader.bounding_box do
-  #     page 1
-  #     below /electricity/i
-  #     above 10
-  #     right_of 240.0
-  #     left_of "Total ($)"
-  #   end
-  #   textangle.text
-  #
-  # Alternatively, an explicit block parameter may be used:
-  #
-  #   textangle = reader.bounding_box do |r|
-  #     r.page 1
-  #     r.below /electricity/i
-  #     r.above 10
-  #     r.right_of 240.0
-  #     r.left_of "Total ($)"
-  #   end
-  #   textangle.text
-  #   => [['string','string'],['string']] # array of rows, each row is an array of column text element
-  #
-  def bounding_box(&block)
-    PDF::Reader::Turtletext::Textangle.new(self,&block)
-  end
-
   private
 
     def load_content(page)
-      receiver = PDF::Reader::PositionalTextReceiver.new
+      receiver = PDF::Reader::PositionOfTextReceiver.new
       reader.page(page).walk(receiver)
       receiver.content
     end

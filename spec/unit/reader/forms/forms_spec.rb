@@ -1,19 +1,18 @@
 require 'spec_helper'
 
-describe PDF::Reader::Turtletext do
-  let(:resource_class) { PDF::Reader::Turtletext }
-
+describe PDF::Reader::Forms do
+  let(:resource_class) { PDF::Reader::Forms }
   let(:source) { nil } # we're just going to mock the PDF source here
-  let(:turtletext_reader) { resource_class.new(source,options) }
+  let(:forms_reader) { resource_class.new(source,options) }
   let(:options) { {} }
 
   describe "#reader" do
-    subject { turtletext_reader.reader}
+    subject { forms_reader.reader}
     it { should be_a(PDF::Reader) }
   end
 
   describe "#y_precision" do
-    subject { turtletext_reader.y_precision}
+    subject { forms_reader.y_precision}
     context "default" do
       it { should eql(3) }
     end
@@ -27,7 +26,7 @@ describe PDF::Reader::Turtletext do
   context "with mocked source content" do
     let(:page) { 1 }
     before do
-      turtletext_reader.should_receive(:load_content).with(page).and_return(given_page_content)
+      forms_reader.should_receive(:load_content).with(page).and_return(given_page_content)
     end
 
     {
@@ -74,12 +73,12 @@ describe PDF::Reader::Turtletext do
         }
 
         describe "#content" do
-          subject { turtletext_reader.content(page) }
+          subject { forms_reader.content(page) }
           it { should eql(test_expectations[:expected_fuzzed_content]) }
         end
 
         describe "#precise_content" do
-          subject { turtletext_reader.precise_content(page) }
+          subject { forms_reader.precise_content(page) }
           it { should eql(test_expectations[:expected_precise_content]) }
         end
 
@@ -133,7 +132,7 @@ describe PDF::Reader::Turtletext do
           let(:ymax) { test_expectations[:ymax] }
           let(:inclusive) { test_expectations[:inclusive] }
           let(:expected_text) { test_expectations[:expected_text] }
-          subject { turtletext_reader.text_in_region(xmin,xmax,ymin,ymax,page,inclusive) }
+          subject { forms_reader.text_in_region(xmin,xmax,ymin,ymax,page,inclusive) }
           it { should eql(expected_text) }
         end
       end
@@ -156,7 +155,7 @@ describe PDF::Reader::Turtletext do
         context test_name do
           let(:match_term) { test_expectations[:match_term] }
           let(:expected_position) { test_expectations[:expected_position] }
-          subject { turtletext_reader.text_position(match_term,page) }
+          subject { forms_reader.text_position(match_term,page) }
           it { should eql(expected_position) }
         end
       end

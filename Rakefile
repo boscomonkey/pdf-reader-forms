@@ -1,6 +1,5 @@
 # encoding: utf-8
 
-require 'rubygems'
 require 'bundler'
 begin
   Bundler.setup(:default, :development)
@@ -12,40 +11,14 @@ end
 require 'rake'
 require 'rspec'
 require 'rspec/core/rake_task'
-
-$LOAD_PATH.unshift('lib')
-require 'pdf/reader/turtletext/version'
-
-require 'jeweler'
-Jeweler::Tasks.new do |gem|
-  # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "pdf-reader-turtletext"
-  gem.version = PDF::Reader::Turtletext::Version::STRING
-  gem.homepage = "https://github.com/tardate/pdf-reader-turtletext"
-  gem.license = "MIT"
-  gem.summary = %Q{PDF structured text reader}
-  gem.description = %Q{a library that can read structured and positional text from PDFs. Ideal for asembling structured data from invoices and the like.}
-  gem.email = "gallagher.paul@gmail.com"
-  gem.authors = ["Paul Gallagher"]
-  gem.files.exclude 'pkg/*'
-  # dependencies defined in Gemfile
-end
-Jeweler::RubygemsDotOrgTasks.new
+Bundler::GemHelper.install_tasks
 
 desc "Run all RSpec test examples"
-RSpec::Core::RakeTask.new do |spec|
-  spec.rspec_opts = ["-c", "-f progress"]
-  spec.pattern = 'spec/**/*_spec.rb'
-end
-
-task :default => :spec
-
-require 'rdoc/task'
-RDoc::Task.new do |rdoc|
-  rdoc.main = "README.rdoc"
-  rdoc.rdoc_dir = 'rdoc'
-  rdoc.title = "pdf-reader-turtletext #{PDF::Reader::Turtletext::Version::STRING}"
-  rdoc.rdoc_files.include('README*', 'lib/**/*.rb')
+task :spec do
+  RSpec::Core::RakeTask.new do |spec|
+    spec.rspec_opts = ["-c", "-f progress"]
+    spec.pattern = 'spec/**/*_spec.rb'
+  end
 end
 
 desc "Generate sample PDFs for tests"
@@ -55,3 +28,18 @@ task :make_pdf_samples do |t|
   make_pdf_samples
 end
 
+desc "Push the Gem"
+task :publish do
+  fail "Does not look like the Version file is updated!" unless `git status -s`.split("\n").include?(" M pdf-reader-forms.gemspec")
+  tag = Gem::Specification.version
+  system "git checkout master"
+  system "git add -A"
+  system "git commit -m 'Version Bump of Gem to version #{tag}'"
+  system "git tag -a v" + tag
+  system "git push github master --tags"
+  system "git push wsl master --tags"
+  system "rake install"
+  system "gem push pkg/pdf-reader-forms-#{tag}.gem"
+end
+
+task :default => :spec

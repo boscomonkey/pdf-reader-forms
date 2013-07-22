@@ -3,14 +3,14 @@
 # Typical usage:
 #
 #   reader = PDF::Reader.new(filename)
-#   receiver = PDF::Reader::PositionalTextReceiver.new
+#   receiver = PDF::Reader::PositionOfTextReceiver.new
 #   reader.page(page).walk(receiver)
 #   receiver.content
 #
-class PDF::Reader::PositionalTextReceiver < PDF::Reader::PageTextReceiver
+class PDF::Reader::PositionOfTextReceiver < PDF::Reader::PageTextReceiver
 
   # record text that is drawn on the page
-  def show_text(string) # Tj
+  def show_text(string)
     internal_show_text(string)
     temp_hash = {}
     chars = @state.current_font.to_utf8(string)
