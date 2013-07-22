@@ -12,6 +12,21 @@ class PDF::Reader::PositionOfTextReceiver < PDF::Reader::PageTextReceiver
   # record text that is drawn on the page
   def show_text(string)
     internal_show_text(string)
+    positional_transformer(string)
+  end
+
+  def show_text_with_positioning(params)
+    params.each do |arg|
+      if arg.is_a?(String)
+        internal_show_text(arg)
+        positional_transformer(arg)
+      else
+        @state.process_glyph_displacement(0, arg, false)
+      end
+    end
+  end
+
+  def positional_transformer(string)
     temp_hash = {}
     chars = @state.current_font.to_utf8(string)
     newx, newy = @state.trm_transform(0,0)

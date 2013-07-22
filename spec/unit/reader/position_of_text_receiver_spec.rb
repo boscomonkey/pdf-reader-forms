@@ -12,8 +12,8 @@ describe PDF::Reader::PositionOfTextReceiver do
   end
 
   {
-    'junk_prefix.pdf' => {747.384=>{36.0=>"This PDF contains junk before the %-PDF marker"}},
-    'hello_world.pdf' => {747.384=>{36.0=>"Hello World"}}
+    'junk_prefix.pdf' => {747.384=>{179.388=>"This PDF contains junk bef", 282.384=>"ore the %-PDF mar", 288.564=>"k", 298.992=>"er"}},
+    'hello_world.pdf' => {747.384=>{78.0=>"Hello W", 88.30799999999999=>"or", 97.824=>"ld"}}
   }.each do |sample_file,expected_page_content|
     describe "#content for #{sample_file}" do
       let(:source) { pdf_sample(sample_file) }
