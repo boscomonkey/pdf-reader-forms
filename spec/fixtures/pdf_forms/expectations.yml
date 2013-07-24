@@ -1,0 +1,1597 @@
+---
+first_form.pdf:
+  :test_font_stack:
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 8.0
+  - - Times-BoldItalic
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 14.0
+  - - Times-Bold
+    - Type1
+    - 14.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 11.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 11.0
+  - - Times-Italic
+    - Type1
+    - 11.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  :test_content_blocks_with_sizes:
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'j.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'I am the husband, wife, or minor unmarried child of a Cuban and meet the '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'description in '
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - (f)
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! ' above.'
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'h.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'Other basis of eligibility. Explain (for example, I was admitted as a refugee,
+      my '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'status has not been terminated, and I have been physically present in the
+      United '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'States for 1 year after admission). If additional space is needed, see '
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - Page 2
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! ' of the '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - instructions.
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'g.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - I have continuously resided in the United States since before January 1, 1972.
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'f.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'I am the husband, wife, or minor unmarried child of a Cuban described above
+      in '
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - (e),
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! ' and I am residing with that person, and was admitted or paroled into the
+      United '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'States after January 1, 1959, and thereafter have been physically present
+      in the '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - United States for at least 1 year.
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'e.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'I am a native or citizen of Cuba admitted or paroled into the United States
+      after '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'January 1, 1959, and thereafter have been physically present in the United
+      States '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - for at least 1 year.
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'd.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'I was granted asylum or derivative asylum status as the spouse or child of
+      a person '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - granted asylum and am eligible for adjustment.
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'c.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'I entered as a K-1 fiancØ(e) of a U.S. citizen whom I married within 90 days
+      of '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'entry, or I am the K-2 child of such a fiancØ(e). (Attach a copy of the fiancØ(e) '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - petition approval notice and the marriage certificate.)
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'b.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'My spouse or parent applied for adjustment of status or was granted lawful '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'permanent residence in an immigrant visa category that allows derivative
+      status '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - for spouses and children.
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Approved Visa Petition '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Dependent of Principal Alien '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Special Immigrant '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - Other
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - For USCIS Use Only
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - Receipt
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - Returned
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - Resubmitted
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - Reloc Sent
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - Reloc Rec’d
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - ! 'Applicant '
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - Interviewed
+  - - - Times-Bold
+      - Type1
+      - 9.0
+    - Section of Law
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Sec. 209(a), INA '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Sec. 209(b), INA '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Sec. 13, Act of 9/11/57 '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Sec. 245, INA '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Sec. 249, INA '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Sec. 1 Act of 11/2/66 '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Sec. 2 Act of 11/2/66 '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Other '
+  - - - Times-Bold
+      - Type1
+      - 9.0
+    - Country Chargeable
+  - - - Times-Bold
+      - Type1
+      - 9.0
+    - Eligibility Under Sec. 245
+  - - - Times-Bold
+      - Type1
+      - 9.0
+    - Preference
+  - - - Times-Bold
+      - Type1
+      - 9.0
+    - Action Block
+  - - - Times-Bold
+      - Type1
+      - 8.0
+    - ! 'To be Completed by '
+  - - - Times-BoldItalic
+      - Type1
+      - 8.0
+    - Attorney or Representative,
+  - - - Times-Bold
+      - Type1
+      - 8.0
+    - ! ' if any'
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Fill in box if Form G-28 is attached to '
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - represent the applicant.
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'VOLAG #'
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'ATTY State License #'
+  - - - Times-Bold
+      - Type1
+      - 9.0
+    - OMB No. 1615-0023; Expires 01/31/13
+  - - - Times-Bold
+      - Type1
+      - 9.0
+    - ! 'Department of Homeland Security '
+  - - - Times-Roman
+      - Type1
+      - 9.0
+    - U.S. Citizenship and Immigration Services
+  - - - Times-Roman
+      - Type1
+      - 8.0
+    - ! 'Form I-485 (Rev. 01/18/11) Y '
+  - - - Times-Bold
+      - Type1
+      - 14.0
+    - ! ' Form I-485, Application to Register '
+  - - - Times-Bold
+      - Type1
+      - 14.0
+    - Permanent Residence or Adjust Status
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'START HERE - Type or Print '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - (Use black ink)
+  - - - Times-Bold
+      - Type1
+      - 11.0
+    - Part 1.  Information About You
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - Middle Name
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'Family Name '
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - (Last Name)
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'Given Name '
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - (First Name)
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - Country of Citizenship/Nationality
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - Country of Birth
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'Date of Birth '
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - (mm/dd/yyyy)
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'A # '
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - (if any)
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'U.S. Social Security # '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - (if any)
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'I-94 #'
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - State
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - City
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - Zip Code
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'Address '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! '- Street Number and Name'
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - C/O (
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - in care of
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - )
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - ! 'Apt. #'
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'Date of Last Arrival '
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - (mm/dd/yyyy)
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - Current USCIS Status
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'Expires on '
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - (mm/dd/yyyy)
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'I am applying for an adjustment to permanent resident status because:'
+  - - - Times-Bold
+      - Type1
+      - 11.0
+    - ! 'Part 2.  Application Type  '
+  - - - Times-Italic
+      - Type1
+      - 11.0
+    - (Check one)
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'I am already a permanent resident and am applying to have the date I was
+      granted '
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'permanent residence adjusted to the date I originally arrived in the United
+      States as '
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'a nonimmigrant or parolee, or as of May 2, 1964, whichever date is later,
+      and:  '
+  - - - Times-Italic
+      - Type1
+      - 10.0
+    - (Check one)
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'i.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'I am a native or citizen of Cuba and meet the description in '
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - (e)
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! ' above.'
+  - - - Times-Bold
+      - Type1
+      - 10.0
+    - ! 'a.        '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'An immigrant petition giving me an immediately available immigrant visa number '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'that has been approved. (Attach a copy of the approval notice, or a relative,
+      special '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - ! 'immigrant juvenile, or special immigrant military visa petition filed with
+      this '
+  - - - Times-Roman
+      - Type1
+      - 10.0
+    - application that will give you an immediately available visa number, if approved.)
+second_form.pdf:
+  :test_font_stack:
+  - &22643960
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &22922480
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22930100
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22942240
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &22937020
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22944920
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &22993600
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23048120
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23107760
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23101200
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23115920
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23125260
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23138140
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23220980
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23227920
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23263780
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23276880
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23331040
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23367780
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23389600
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23400300
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23457880
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23493460
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23521360
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23536320
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23583160
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23627700
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23641900
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23679500
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23735080
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23709460
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23698680
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23651840
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23586140
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23571180
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &23532120
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23507280
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23493340
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23486360
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23454640
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &23444400
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &23432580
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &23404420
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &23381120
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &23356540
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &23330040
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &23320460
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &23305720
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - &23288080
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23275160
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23258520
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23247040
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23237040
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23223180
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23202220
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23192040
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23166540
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - &23140860
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - &23126580
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.000000000000028
+  - &23114220
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - &23093900
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 8.0
+  - &23068000
+    - TimesNewRomanPS-BoldItalicMT
+    - TrueType
+    - 8.0
+  - &23060040
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 8.0
+  - &23030880
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23011400
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &23001080
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &22984400
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &22655500
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - &22603460
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - &22580640
+    - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - &22458920
+    - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - &22438340
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 14.0
+  - &22415280
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 14.0
+  - &22400360
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &22078820
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22048760
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 11.0
+  - &22035500
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22024400
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21644840
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &21633540
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21625620
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &21604000
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21589720
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21082380
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21076320
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &21059300
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21049520
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &21039360
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21029860
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &18365860
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &18353900
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &18344480
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &18337320
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &18333440
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &18324000
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22346180
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22335800
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22323560
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22313680
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &22294940
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &20463360
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &20446360
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &20433280
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &20425680
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &21913720
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &21164840
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 11.0
+  - &21157760
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 11.0
+  - &19612200
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.000000000000014
+  - &21289820
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &22135220
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &19700560
+    - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - &19670740
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &17938540
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &17930440
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &17913320
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &20148840
+    - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - &22699940
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &21734500
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &22785300
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - &70251304335920
+    - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  :test_content_blocks_with_sizes:
+  - - *22643960
+    - ! 'j.        '
+  - - *22922480
+    - ! 'I am the husband, wife, or minor unmarried child of a Cuban and meet the '
+  - - *22930100
+    - ! 'description in '
+  - - *22942240
+    - (f)
+  - - *22937020
+    - ! ' above.'
+  - - *22944920
+    - ! 'h.        '
+  - - *22993600
+    - ! 'Other basis of eligibility. Explain (for example, I was admitted as a refugee,
+      my '
+  - - *23048120
+    - ! 'status has not been terminated, and I have been physically present in the
+      United '
+  - - *23107760
+    - ! 'States for 1 year after admission). If additional space is needed, see '
+  - - *23101200
+    - Page 2
+  - - *23115920
+    - ! ' of the '
+  - - *23125260
+    - instructions.
+  - - *23138140
+    - ! 'g.        '
+  - - *23220980
+    - I have continuously resided in the United States since before January 1, 1972.
+  - - *23227920
+    - ! 'f.        '
+  - - *23263780
+    - ! 'I am the husband, wife, or minor unmarried child of a Cuban described above
+      in '
+  - - *23276880
+    - (e),
+  - - *23331040
+    - ! ' and I am residing with that person, and was admitted or paroled into the
+      United '
+  - - *23367780
+    - ! 'States after January 1, 1959, and thereafter have been physically present
+      in the '
+  - - *23389600
+    - United States for at least 1 year.
+  - - *23400300
+    - ! 'e.        '
+  - - *23457880
+    - ! 'I am a native or citizen of Cuba admitted or paroled into the United States
+      after '
+  - - *23493460
+    - ! 'January 1, 1959, and thereafter have been physically present in the United
+      States '
+  - - *23521360
+    - for at least 1 year.
+  - - *23536320
+    - ! 'd.        '
+  - - *23583160
+    - ! 'I was granted asylum or derivative asylum status as the spouse or child of
+      a person '
+  - - *23627700
+    - granted asylum and am eligible for adjustment.
+  - - *23641900
+    - ! 'c.        '
+  - - *23679500
+    - ! 'I entered as a K-1 fiancé(e) of a U.S. citizen whom I married within 90 days
+      of '
+  - - *23735080
+    - ! 'entry, or I am the K-2 child of such a fiancé(e). (Attach a copy of the fiancé(e) '
+  - - *23709460
+    - petition approval notice and the marriage certificate.)
+  - - *23698680
+    - ! 'b.        '
+  - - *23651840
+    - ! 'My spouse or parent applied for adjustment of status or was granted lawful '
+  - - *23586140
+    - ! 'permanent residence in an immigrant visa category that allows derivative
+      status '
+  - - *23571180
+    - for spouses and children.
+  - - *23532120
+    - ! 'Approved Visa Petition '
+  - - *23507280
+    - ! 'Dependent of Principal Alien '
+  - - *23493340
+    - ! 'Special Immigrant '
+  - - *23486360
+    - Other
+  - - *23454640
+    - For USCIS Use Only
+  - - *23444400
+    - Receipt
+  - - *23432580
+    - Returned
+  - - *23404420
+    - Resubmitted
+  - - *23381120
+    - Reloc Sent
+  - - *23356540
+    - Reloc Rec'd
+  - - *23330040
+    - ! 'Applicant '
+  - - *23320460
+    - Interviewed
+  - - *23305720
+    - Section of Law
+  - - *23288080
+    - ! 'Sec. 209(a), INA '
+  - - *23275160
+    - ! 'Sec. 209(b), INA '
+  - - *23258520
+    - ! 'Sec. 13, Act of 9/11/57 '
+  - - *23247040
+    - ! 'Sec. 245, INA '
+  - - *23237040
+    - ! 'Sec. 249, INA '
+  - - *23223180
+    - ! 'Sec. 1 Act of 11/2/66 '
+  - - *23202220
+    - ! 'Sec. 2 Act of 11/2/66 '
+  - - *23192040
+    - ! 'Other '
+  - - *23166540
+    - Country Chargeable
+  - - *23140860
+    - Eligibility Under Sec. 245
+  - - *23126580
+    - Preference
+  - - *23114220
+    - Action Block
+  - - *23093900
+    - ! 'To be Completed by '
+  - - *23068000
+    - Attorney or Representative,
+  - - *23060040
+    - ! ' if any'
+  - - *23030880
+    - ! 'Fill in box if Form G-28 is attached to '
+  - - *23011400
+    - represent the applicant.
+  - - *23001080
+    - ! 'VOLAG #'
+  - - *22984400
+    - ! 'ATTY State License #'
+  - - *22655500
+    - OMB No. 1615-0023; Expires 01/31/13
+  - - *22603460
+    - ! 'Department of Homeland Security '
+  - - *22580640
+    - U.S. Citizenship and Immigration Services
+  - - *22458920
+    - ! 'Form I-485 (Rev. 01/18/11) Y '
+  - - *22438340
+    - ! ' Form I-485, Application to Register '
+  - - *22415280
+    - Permanent Residence or Adjust Status
+  - - *22400360
+    - ! 'START HERE - Type or Print '
+  - - *22078820
+    - (Use black ink)
+  - - *22048760
+    - Part 1.  Information About You
+  - - *22035500
+    - Middle Name
+  - - *22024400
+    - ! 'Family Name '
+  - - *21644840
+    - (Last Name)
+  - - *21633540
+    - ! 'Given Name '
+  - - *21625620
+    - (First Name)
+  - - *21604000
+    - Country of Citizenship/Nationality
+  - - *21589720
+    - Country of Birth
+  - - *21082380
+    - ! 'Date of Birth '
+  - - *21076320
+    - (mm/dd/yyyy)
+  - - *21059300
+    - ! 'A # '
+  - - *21049520
+    - (if any)
+  - - *21039360
+    - ! 'U.S. Social Security # '
+  - - *21029860
+    - (if any)
+  - - *18365860
+    - ! 'I-94 #'
+  - - *18353900
+    - State
+  - - *18344480
+    - City
+  - - *18337320
+    - Zip Code
+  - - *18333440
+    - ! 'Address '
+  - - *18324000
+    - ! '- Street Number and Name'
+  - - *22346180
+    - C/O (
+  - - *22335800
+    - in care of
+  - - *22323560
+    - )
+  - - *22313680
+    - ! 'Apt. #'
+  - - *22294940
+    - ! 'Date of Last Arrival '
+  - - *20463360
+    - (mm/dd/yyyy)
+  - - *20446360
+    - Current USCIS Status
+  - - *20433280
+    - ! 'Expires on '
+  - - *20425680
+    - (mm/dd/yyyy)
+  - - *21913720
+    - ! 'I am applying for an adjustment to permanent resident status because:'
+  - - *21164840
+    - ! 'Part 2.  Application Type  '
+  - - *21157760
+    - (Check one)
+  - - *19612200
+    - ! 'I am already a permanent resident and am applying to have the date I was
+      granted '
+  - - *21289820
+    - ! 'permanent residence adjusted to the date I originally arrived in the United
+      States as '
+  - - *22135220
+    - ! 'a nonimmigrant or parolee, or as of May 2, 1964, whichever date is later,
+      and:  '
+  - - *19700560
+    - (Check one)
+  - - *19670740
+    - ! 'i.        '
+  - - *17938540
+    - ! 'I am a native or citizen of Cuba and meet the description in '
+  - - *17930440
+    - (e)
+  - - *17913320
+    - ! ' above.'
+  - - *20148840
+    - ! 'a.        '
+  - - *22699940
+    - ! 'An immigrant petition giving me an immediately available immigrant visa number '
+  - - *21734500
+    - ! 'that has been approved. (Attach a copy of the approval notice, or a relative,
+      special '
+  - - *22785300
+    - ! 'immigrant juvenile, or special immigrant military visa petition filed with
+      this '
+  - - *70251304335920
+    - application that will give you an immediately available visa number, if approved.)
