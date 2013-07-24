@@ -18,9 +18,21 @@ module PDF::Reader::Forms::ContentBlocks
     output
   end
 
-  def mean_font_size
-    mfs = reader.content_blocks.inject([0,0]){|tot,ele| tot[0] += (ele.last.size * ele.first.last); tot[1] += (ele.last.size); tot }
-    mfs = mfs[0]/mfs[1]
+  def mfs(page=1)
+    @mfs ||= []
+    unless @mfs[page]
+      @mfs[page] = content_blocks(page).reduce([0,0]){|tot,ele| tot[0] += (ele.first.size * ele.last.last); tot[1] += (ele.first.size); tot }
+      @mfs[page] = @mfs[page][0]/@mfs[page][1]
+    end
+  end
+
+  def mrh(page=1)
+    @mrh ||= []
+    unless @mrh[page]
+      @mrh[page] = content.map{|e| e.first}
+      while @mrh[page].count > 1; h||=[]; h << (@mrh[page][-2]-@mrh[page][-1]); 2.times{@mrh[page].pop}; end
+      @mrh[page] = h.reduce(0){|n,e| n+=e} / content.size
+    end
   end
 
   private
