@@ -1,10 +1,7 @@
 # -*- encoding: utf-8 -*-
-lib = File.expand_path('../lib', __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-
 Gem::Specification.new do |s|
   s.name              = "pdf-reader-forms"
-  s.version           = '0.1.1'
+  s.version           = '0.1.0'
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           = "A PDF::Reader plugin to parse PDF forms and return structured content."
   s.homepage          = "http://github.com/compleatang/pdf-reader-forms"
