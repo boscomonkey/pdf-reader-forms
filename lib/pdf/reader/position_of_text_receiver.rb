@@ -61,8 +61,8 @@ class PDF::Reader::PositionOfTextReceiver < PDF::Reader::PageTextReceiver
   def content_blocks_with_sizes
     unless @content_blocks_with_sizes
       strings = []
-      @content.each_value{|v| v.each_value{|vv| strings << vv.last}}
-      @content_blocks_with_sizes = @stack_of_fonts.zip(strings)
+      @content_blocks_with_sizes = @content.zip(@stack_of_fonts).map{|e| e.first[1]=e.first[1].to_a; e.flatten}.
+            reduce([]){|arr,e| t=[]; t[0]=e[3]; t[1]=[e[1],e[2],e[0],e[0]+e[-1]]; t[2]=e[-3..-1]; arr << t}
     end
     @content_blocks_with_sizes
   end

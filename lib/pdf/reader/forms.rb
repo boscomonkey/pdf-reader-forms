@@ -15,7 +15,8 @@ class PDF::Reader::Forms
   include FormFields
 
   attr_accessor :reader, :options
-  attr_reader :form_fields, :fields_found, :textboxes, :radiobuttons, :selectboxes, :linkboxes, :field_headers
+  attr_reader :form_fields, :fields_found, :textboxes, :radiobuttons, :selectboxes, :linkboxes,
+    :field_headers, :stack_of_fonts, :content_blocks
 
   # +source+ is a file name or stream-like object. Just like in PDF::Reader
   # Supported +options+ include:
@@ -66,6 +67,7 @@ class PDF::Reader::Forms
     receiver = PDF::Reader::PositionOfTextReceiver.new
     reader.page(page).walk(receiver)
     @content_blocks = receiver.content_blocks_with_sizes
+    @stack_of_fonts = receiver.stack_of_fonts
     receiver.content
   end
 end

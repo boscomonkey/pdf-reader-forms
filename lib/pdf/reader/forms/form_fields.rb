@@ -74,14 +74,12 @@ module PDF::Reader::Forms::FormFields
     @fields_found
   end
 
-  private
-
   def assemble_the_annotations
     annots = reader.pages.map{|p| p.attributes[:Annots]}
     annotations = annots.reduce([]) do |arr, r|
       if r.class == PDF::Reader::Reference
-        refs = reader.objects[r.id].select{|e| e.class == PDF::Reader::Reference}
-        objs = reader.objects[r.id].reject{|e| e.class == PDF::Reader::Reference}
+        refs = reader.reader.objects[r.id].select{|e| e.class == PDF::Reader::Reference}
+        objs = reader.reader.objects[r.id].reject{|e| e.class == PDF::Reader::Reference}
         annots << refs unless refs.empty?
         arr << objs unless objs.empty?
       else
@@ -121,7 +119,7 @@ module PDF::Reader::Forms::FormFields
   def questions_helper( box, type )
     page = reader.pages.select{|p| p.attributes == reader.objects[box[:P].id]}.first.number
     location = box[:Rect]
-    result, newlocation = find_the_linked_text( location, type )
+    result, newlocation = find_the_linked_text( location, type, page )
     if result == :unsure
       dump_to_unsure_stack(box, type)
       return nil
@@ -141,22 +139,21 @@ module PDF::Reader::Forms::FormFields
     return []
   end
 
-  def find_the_linked_text( location, type )
+  def find_the_linked_text( location, type, pg )
     case type  # todo...clean
     when :tb
-      result = super.text_in_region(location[0], location[2], location[1], location[3]+20, 1, true, content_stack[pg])
-      result = super.text_in_region(location[0], location[2], location[1]-20, location[3], 1, true, content_stack[pg]) unless result.count == 1
-
+      # NoMethodError: undefined method `>=' for #<Array:0x007fa4c0163a70>
+      # from /home/coda/sites/gems/pdf-reader-forms/lib/pdf/reader/forms/positioning.rb:16:in `block in text_in_region'
+      result = text_in_region(location[0], location[2], location[1], location[3]+20, 1, true, content_stack[pg])
+      location[3] = location[3] + 20
+      result = text_in_region(location[0], location[2], location[1]-20, location[3], 1, true, content_stack[pg]) unless result.count == 1
     when :rad
-      result = super.text_in_region(location[0], location[2]+50, location[1], location[3], 1, true, content_stack[pg])
-      result = super.text_in_region(location[0]-50, location[2], location[1], location[3], 1, true, content_stack[pg]) unless result.count == 1
-
+      result = text_in_region(location[0], location[2]+50, location[1], location[3], 1, true, content_stack[pg])
+      result = text_in_region(location[0]-50, location[2], location[1], location[3], 1, true, content_stack[pg]) unless result.count == 1
     when :slt
       result
-
     when :lnk
       result
-
     end
     #delete the result from the stack, and update the location...
     return result, location
