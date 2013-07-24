@@ -1,0 +1,2895 @@
+---
+first_form.pdf:
+  :test_font_stack:
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 8.0
+  - - Times-BoldItalic
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Bold
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 9.0
+  - - Times-Roman
+    - Type1
+    - 8.0
+  - - Times-Bold
+    - Type1
+    - 14.0
+  - - Times-Bold
+    - Type1
+    - 14.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 11.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 11.0
+  - - Times-Italic
+    - Type1
+    - 11.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Italic
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Bold
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  - - Times-Roman
+    - Type1
+    - 10.0
+  :test_content_blocks_with_sizes:
+  - - ! 'j.        '
+    - - 36
+      - 61.83
+      - 64.9262
+      - 74.9262
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - ! 'description in '
+    - - 61.9199438
+      - 119.1399438
+      - 54.926199999999994
+      - 64.9262
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'h.        '
+    - - 36.0000838
+      - 64.0600838
+      - 172.0762
+      - 182.0762
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'status has not been terminated, and I have been physically present in the
+      United '
+    - - 64.0802057
+      - 384.86020569999977
+      - 162.0762
+      - 172.0762
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - ! 'States for 1 year after admission). If additional space is needed, see '
+    - - 64.0802057
+      - 335.68020569999993
+      - 152.0762
+      - 162.0762
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - instructions.
+    - - 64.08020570000002
+      - 113.25020570000002
+      - 142.0762
+      - 152.0762
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - ! 'g.        '
+    - - 36.00010570000002
+      - 63.50010570000002
+      - 189.4461
+      - 199.4461
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'f.        '
+    - - 36.00010570000002
+      - 61.83010570000002
+      - 234.70589999999999
+      - 244.70589999999999
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - (e),
+    - - 61.92004950000002
+      - 75.52004950000001
+      - 224.70589999999999
+      - 234.70589999999999
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'States after January 1, 1959, and thereafter have been physically present
+      in the '
+    - - 61.92004950000001
+      - 378.23004949999984
+      - 214.70589999999999
+      - 224.70589999999999
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - United States for at least 1 year.
+    - - 61.92004950000001
+      - 189.9500495
+      - 204.70589999999999
+      - 214.70589999999999
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'e.        '
+    - - 36.00014950000001
+      - 62.94014950000001
+      - 270.1762
+      - 280.1762
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'January 1, 1959, and thereafter have been physically present in the United
+      States '
+    - - 63.000105800000014
+      - 388.2101057999997
+      - 260.1762
+      - 270.1762
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - for at least 1 year.
+    - - 63.000105800000014
+      - 134.92010580000002
+      - 250.1762
+      - 260.1762
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'd.        '
+    - - 36.000105800000014
+      - 64.06010580000002
+      - 294.38599999999997
+      - 304.38599999999997
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - granted asylum and am eligible for adjustment.
+    - - 64.08022770000001
+      - 252.67022770000003
+      - 284.38599999999997
+      - 294.38599999999997
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'c.        '
+    - - 36.00012770000001
+      - 62.940127700000005
+      - 329.85589999999996
+      - 339.85589999999996
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - ! 'entry, or I am the K-2 child of such a fiancØ(e). (Attach a copy of the fiancØ(e) '
+    - - 63.000084000000015
+      - 384.8400839999999
+      - 319.85589999999996
+      - 329.85589999999996
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - petition approval notice and the marriage certificate.)
+    - - 63.000084000000015
+      - 276.000084
+      - 309.85589999999996
+      - 319.85589999999996
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'b.        '
+    - - 36.000084000000015
+      - 64.06008400000002
+      - 364.58599999999996
+      - 374.58599999999996
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'permanent residence in an immigrant visa category that allows derivative
+      status '
+    - - 64.08020590000001
+      - 384.86020589999964
+      - 354.58599999999996
+      - 364.58599999999996
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - for spouses and children.
+    - - 64.08020590000001
+      - 164.0602059
+      - 344.58599999999996
+      - 354.58599999999996
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'Approved Visa Petition '
+    - - 426.002
+      - 503.55400000000003
+      - 296.518
+      - 306.518
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'Dependent of Principal Alien '
+    - - 426.002
+      - 521.9860000000001
+      - 287.518
+      - 297.518
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'Special Immigrant '
+    - - 426.002
+      - 487.33
+      - 278.518
+      - 288.518
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - Other
+    - - 426.002
+      - 444.218
+      - 269.518
+      - 279.518
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - For USCIS Use Only
+    - - 445.651
+      - 534.8209999999999
+      - 695.011
+      - 705.011
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - Receipt
+    - - 508.326
+      - 535.8209999999999
+      - 682.379
+      - 692.379
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - Returned
+    - - 408.14700000000005
+      - 441.141
+      - 682.226266
+      - 692.226266
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - Resubmitted
+    - - 408.881
+      - 454.38499999999993
+      - 630.349
+      - 640.349
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - Reloc Sent
+    - - 408.144
+      - 447.393
+      - 579.212
+      - 589.212
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - Reloc Rec’d
+    - - 408.144
+      - 452.8829999999999
+      - 526.601
+      - 536.601
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - ! 'Applicant '
+    - - 407.407
+      - 445.15299999999996
+      - 475.597
+      - 485.597
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - Interviewed
+    - - 407.407
+      - 450.39099999999996
+      - 466.597
+      - 476.597
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - Section of Law
+    - - 408.144891
+      - 465.141891
+      - 434.1072
+      - 444.1072
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'Sec. 209(a), INA '
+    - - 426.13789099999997
+      - 482.785891
+      - 422.27709999999996
+      - 430.27709999999996
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Sec. 209(b), INA '
+    - - 426.13789099999997
+      - 483.23389099999997
+      - 413.27709999999996
+      - 421.27709999999996
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Sec. 13, Act of 9/11/57 '
+    - - 426.13789099999997
+      - 502.353891
+      - 404.27709999999996
+      - 412.27709999999996
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Sec. 245, INA '
+    - - 426.13789099999997
+      - 473.905891
+      - 395.27709999999996
+      - 403.27709999999996
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Sec. 249, INA '
+    - - 426.13789099999997
+      - 473.905891
+      - 386.27709999999996
+      - 396.27709999999996
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - ! 'Sec. 1 Act of 11/2/66 '
+    - - 426.13789099999997
+      - 496.353891
+      - 377.27709999999996
+      - 386.27709999999996
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - ! 'Sec. 2 Act of 11/2/66 '
+    - - 426.13789099999997
+      - 496.353891
+      - 368.27709999999996
+      - 377.27709999999996
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - ! 'Other '
+    - - 426.13789099999997
+      - 446.353891
+      - 359.27709999999996
+      - 368.27709999999996
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - Country Chargeable
+    - - 409.021891
+      - 488.266891
+      - 343.1482
+      - 352.1482
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - Eligibility Under Sec. 245
+    - - 408.87814099999997
+      - 506.888141
+      - 309.056
+      - 318.056
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - Preference
+    - - 408.87814099999997
+      - 450.3501409999999
+      - 251.0693
+      - 260.0693
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - Action Block
+    - - 408.87814099999997
+      - 458.630141
+      - 234.27519999999998
+      - 243.27519999999998
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - ! 'To be Completed by '
+    - - 453.21604099999996
+      - 524.3280409999999
+      - 128.16019999999997
+      - 137.16019999999997
+    - - Times-Bold
+      - Type1
+      - 9.0
+  - - Attorney or Representative,
+    - - 432.11214099999995
+      - 522.1121410000002
+      - 118.43988999999998
+      - 126.43988999999998
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Fill in box if Form G-28 is attached to '
+    - - 423.600041
+      - 547.8240410000001
+      - 107.43208999999997
+      - 115.43208999999997
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - represent the applicant.
+    - - 423.600041
+      - 498.02404100000007
+      - 98.43208999999997
+      - 106.43208999999997
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'VOLAG #'
+    - - 408.144141
+      - 442.136141
+      - 83.33598999999998
+      - 91.33598999999998
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'ATTY State License #'
+    - - 408.88789099999997
+      - 481.095891
+      - 66.91998999999998
+      - 74.91998999999998
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - OMB No. 1615-0023; Expires 01/31/13
+    - - 428.7
+      - 575.9489999999998
+      - 747.751
+      - 755.751
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Department of Homeland Security '
+    - - 36.7371
+      - 171.7191
+      - 731.169
+      - 739.169
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - U.S. Citizenship and Immigration Services
+    - - 36.7371
+      - 191.23110000000008
+      - 720.1709999999999
+      - 728.1709999999999
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Form I-485 (Rev. 01/18/11) Y '
+    - - 478.8981
+      - 578.0020999999999
+      - 42.48899999999992
+      - 51.48899999999992
+    - - Times-Bold
+      - Type1
+      - 9.0
+  - - ! ' Form I-485, Application to Register '
+    - - 357.6081
+      - 578.0801
+      - 735.3609999999999
+      - 744.3609999999999
+    - - Times-Bold
+      - Type1
+      - 9.0
+  - - Permanent Residence or Adjust Status
+    - - 343.594
+      - 574.5660000000001
+      - 718.8550999999999
+      - 727.8550999999999
+    - - Times-Bold
+      - Type1
+      - 9.0
+  - - ! 'START HERE - Type or Print '
+    - - 36.0
+      - 169.34000000000003
+      - 695.7480999999999
+      - 704.7480999999999
+    - - Times-Bold
+      - Type1
+      - 9.0
+  - - Part 1.  Information About You
+    - - 36
+      - 185.10500000000008
+      - 681.05
+      - 689.05
+    - - Times-Bold
+      - Type1
+      - 8.0
+  - - Middle Name
+    - - 281.264
+      - 336.53399999999993
+      - 665.727
+      - 673.727
+    - - Times-BoldItalic
+      - Type1
+      - 8.0
+  - - Country of Citizenship/Nationality
+    - - 37
+      - 176.45000000000002
+      - 526.846
+      - 534.846
+    - - Times-Bold
+      - Type1
+      - 8.0
+  - - Country of Birth
+    - - 220.577
+      - 287.2469999999999
+      - 555.087
+      - 563.087
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'A # '
+    - - 313.712
+      - 330.932
+      - 525.956
+      - 533.956
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'U.S. Social Security # '
+    - - 185.805
+      - 276.91499999999996
+      - 526.843
+      - 534.843
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'I-94 #'
+    - - 220.577
+      - 244.73700000000002
+      - 498.414
+      - 506.414
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - State
+    - - 204.562
+      - 224.562
+      - 582.292
+      - 591.292
+    - - Times-Bold
+      - Type1
+      - 9.0
+  - - ! 'Address '
+    - - 37
+      - 74.5
+      - 637.454
+      - 646.454
+    - - Times-Bold
+      - Type1
+      - 9.0
+  - - C/O (
+    - - 37
+      - 59.5
+      - 609.915
+      - 618.915
+    - - Times-Roman
+      - Type1
+      - 9.0
+  - - ! 'Apt. #'
+    - - 351.447
+      - 376.447
+      - 637.451
+      - 645.451
+    - - Times-Roman
+      - Type1
+      - 8.0
+  - - ! 'Date of Last Arrival '
+    - - 37
+      - 120.30999999999999
+      - 499.302
+      - 513.302
+    - - Times-Bold
+      - Type1
+      - 14.0
+  - - Current USCIS Status
+    - - 37
+      - 125.34
+      - 471.763
+      - 485.763
+    - - Times-Bold
+      - Type1
+      - 14.0
+  - - ! 'I am applying for an adjustment to permanent resident status because:'
+    - - 36.73700000000002
+      - 338.947
+      - 425.92319999999995
+      - 435.92319999999995
+    - - Times-Bold
+      - Type1
+      - 10.0
+  - - ! 'Part 2.  Application Type  '
+    - - 36
+      - 160.36600000000004
+      - 440.414
+      - 450.414
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'I am already a permanent resident and am applying to have the date I was
+      granted '
+    - - 35.999999999999986
+      - 391.54999999999995
+      - 127.25200000000001
+      - 138.252
+    - - Times-Bold
+      - Type1
+      - 11.0
+  - - ! 'permanent residence adjusted to the date I originally arrived in the United
+      States as '
+    - - 35.999999999999986
+      - 395.97999999999985
+      - 117.25200000000001
+      - 127.25200000000001
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'a nonimmigrant or parolee, or as of May 2, 1964, whichever date is later,
+      and:  '
+    - - 35.999999999999986
+      - 373.1899999999998
+      - 107.25200000000001
+      - 117.25200000000001
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - (Check one)
+    - - 35.999999999999986
+      - 84.58999999999997
+      - 97.25200000000001
+      - 107.25200000000001
+    - - Times-Italic
+      - Type1
+      - 10.0
+  - - ! 'i.        '
+    - - 35.999999999999986
+      - 61.27999999999999
+      - 82.29220000000001
+      - 92.29220000000001
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'a.        '
+    - - 36.00010000000003
+      - 63.50010000000003
+      - 409.84220000000005
+      - 419.84220000000005
+    - - Times-Italic
+      - Type1
+      - 10.0
+  - - ! 'that has been approved. (Attach a copy of the approval notice, or a relative,
+      special '
+    - - 63.360256000000035
+      - 397.1602559999997
+      - 399.84220000000005
+      - 409.84220000000005
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - ! 'immigrant juvenile, or special immigrant military visa petition filed with
+      this '
+    - - 63.360256000000035
+      - 373.9202559999997
+      - 389.84220000000005
+      - 399.84220000000005
+    - - Times-Roman
+      - Type1
+      - 10.0
+  - - application that will give you an immediately available visa number, if approved.)
+    - - 63.360256000000035
+      - 391.9302559999998
+      - 379.84220000000005
+      - 389.84220000000005
+    - - Times-Roman
+      - Type1
+      - 10.0
+second_form.pdf:
+  :test_font_stack:
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.000000000000028
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPS-BoldItalicMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 9.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 8.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 14.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 14.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 11.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 11.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 11.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.000000000000014
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-ItalicMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPS-BoldMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  - - TimesNewRomanPSMT
+    - TrueType
+    - 10.0
+  :test_content_blocks_with_sizes:
+  - - ! 'j.        '
+    - - 36
+      - 61.83
+      - 64.926
+      - 74.926
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - ! 'description in '
+    - - 61.92
+      - 119.14
+      - 54.926
+      - 64.926
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'h.        '
+    - - 35.999999999999986
+      - 64.05999999999999
+      - 172.07600000000002
+      - 182.07600000000002
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'status has not been terminated, and I have been physically present in the
+      United '
+    - - 64.07999999999998
+      - 392.6399999999997
+      - 162.07600000000002
+      - 172.07600000000002
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - ! 'States for 1 year after admission). If additional space is needed, see '
+    - - 64.07999999999998
+      - 343.4599999999999
+      - 152.07600000000002
+      - 162.07600000000002
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - instructions.
+    - - 64.07999999999998
+      - 113.24999999999999
+      - 142.07600000000002
+      - 152.07600000000002
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - ! 'g.        '
+    - - 35.999999999999986
+      - 63.499999999999986
+      - 189.44600000000003
+      - 199.44600000000003
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'f.        '
+    - - 35.999999999999986
+      - 61.829999999999984
+      - 234.70600000000002
+      - 244.70600000000002
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - (e),
+    - - 61.91999999999999
+      - 75.51999999999998
+      - 224.70600000000002
+      - 234.70600000000002
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'States after January 1, 1959, and thereafter have been physically present
+      in the '
+    - - 61.91999999999999
+      - 386.00999999999976
+      - 214.70600000000002
+      - 224.70600000000002
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - United States for at least 1 year.
+    - - 61.91999999999999
+      - 189.95
+      - 204.70600000000002
+      - 214.70600000000002
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'e.        '
+    - - 35.999999999999986
+      - 62.93999999999998
+      - 270.17600000000004
+      - 280.17600000000004
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'January 1, 1959, and thereafter have been physically present in the United
+      States '
+    - - 62.999999999999986
+      - 395.98999999999967
+      - 260.17600000000004
+      - 270.17600000000004
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - for at least 1 year.
+    - - 62.999999999999986
+      - 134.92
+      - 250.17600000000004
+      - 260.17600000000004
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'd.        '
+    - - 35.999999999999986
+      - 64.05999999999999
+      - 294.386
+      - 304.386
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - granted asylum and am eligible for adjustment.
+    - - 64.07999999999998
+      - 252.67
+      - 284.386
+      - 294.386
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'c.        '
+    - - 35.999999999999986
+      - 62.93999999999998
+      - 329.856
+      - 339.856
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - ! 'entry, or I am the K-2 child of such a fiancé(e). (Attach a copy of the fiancé(e) '
+    - - 62.999999999999986
+      - 387.05999999999983
+      - 319.856
+      - 329.856
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - petition approval notice and the marriage certificate.)
+    - - 62.999999999999986
+      - 276.0
+      - 309.856
+      - 319.856
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'b.        '
+    - - 35.999999999999986
+      - 64.05999999999999
+      - 364.586
+      - 374.586
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'permanent residence in an immigrant visa category that allows derivative
+      status '
+    - - 64.07999999999998
+      - 392.63999999999965
+      - 354.586
+      - 364.586
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - for spouses and children.
+    - - 64.07999999999998
+      - 164.05999999999997
+      - 344.586
+      - 354.586
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'Approved Visa Petition '
+    - - 426.002
+      - 503.55400000000003
+      - 296.518
+      - 306.518
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'Dependent of Principal Alien '
+    - - 426.002
+      - 521.9860000000001
+      - 287.518
+      - 297.518
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'Special Immigrant '
+    - - 426.002
+      - 487.33
+      - 278.518
+      - 288.518
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - Other
+    - - 426.002
+      - 444.218
+      - 269.518
+      - 279.518
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - For USCIS Use Only
+    - - 445.651
+      - 534.8209999999999
+      - 695.011
+      - 705.011
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - Receipt
+    - - 508.326
+      - 535.8209999999999
+      - 682.379
+      - 692.379
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - Returned
+    - - 408.14700000000005
+      - 441.141
+      - 682.226
+      - 692.226
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - Resubmitted
+    - - 408.881
+      - 454.38499999999993
+      - 630.349
+      - 640.349
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - Reloc Sent
+    - - 408.144
+      - 447.393
+      - 579.212
+      - 589.212
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - Reloc Rec'd
+    - - 408.144
+      - 451.5059999999999
+      - 526.601
+      - 536.601
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - ! 'Applicant '
+    - - 407.407
+      - 445.15299999999996
+      - 475.597
+      - 485.597
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - Interviewed
+    - - 407.407
+      - 450.39099999999996
+      - 466.597
+      - 476.597
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - Section of Law
+    - - 408.145
+      - 465.142
+      - 434.10699999999997
+      - 444.10699999999997
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'Sec. 209(a), INA '
+    - - 426.138
+      - 482.786
+      - 422.277
+      - 430.277
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Sec. 209(b), INA '
+    - - 426.138
+      - 483.234
+      - 413.277
+      - 421.277
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Sec. 13, Act of 9/11/57 '
+    - - 426.138
+      - 502.354
+      - 404.277
+      - 412.277
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Sec. 245, INA '
+    - - 426.138
+      - 473.906
+      - 395.277
+      - 403.277
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Sec. 249, INA '
+    - - 426.138
+      - 473.906
+      - 386.277
+      - 396.277
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - ! 'Sec. 1 Act of 11/2/66 '
+    - - 426.138
+      - 496.354
+      - 377.277
+      - 386.277
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - ! 'Sec. 2 Act of 11/2/66 '
+    - - 426.138
+      - 496.354
+      - 368.277
+      - 377.277
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - ! 'Other '
+    - - 426.138
+      - 446.354
+      - 359.277
+      - 368.277
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - Country Chargeable
+    - - 409.022
+      - 488.267
+      - 343.148
+      - 352.148
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - Eligibility Under Sec. 245
+    - - 408.878
+      - 506.88800000000003
+      - 309.05600000000004
+      - 318.05600000000004
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - Preference
+    - - 408.878
+      - 450.3500000000003
+      - 251.06900000000005
+      - 260.0690000000001
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - Action Block
+    - - 408.878
+      - 458.63
+      - 234.27500000000003
+      - 243.27500000000003
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - ! 'To be Completed by '
+    - - 453.216
+      - 524.328
+      - 128.16
+      - 137.16
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 9.0
+  - - Attorney or Representative,
+    - - 432.112
+      - 522.1120000000002
+      - 118.44
+      - 126.44
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Fill in box if Form G-28 is attached to '
+    - - 423.6
+      - 547.8240000000001
+      - 107.432
+      - 115.432
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - represent the applicant.
+    - - 423.6
+      - 498.0240000000001
+      - 98.432
+      - 106.432
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'VOLAG #'
+    - - 408.144
+      - 442.136
+      - 83.336
+      - 91.336
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'ATTY State License #'
+    - - 408.88800000000003
+      - 481.09600000000006
+      - 66.92
+      - 74.92
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - OMB No. 1615-0023; Expires 01/31/13
+    - - 428.7
+      - 575.9489999999998
+      - 747.751
+      - 755.751
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Department of Homeland Security '
+    - - 36.737
+      - 171.719
+      - 731.169
+      - 739.169
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - U.S. Citizenship and Immigration Services
+    - - 36.737
+      - 191.23100000000008
+      - 720.1709999999999
+      - 728.1709999999999
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Form I-485 (Rev. 01/18/11) Y '
+    - - 478.898
+      - 578.002
+      - 42.489
+      - 51.489
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 9.0
+  - - ! ' Form I-485, Application to Register '
+    - - 357.608
+      - 578.08
+      - 735.361
+      - 744.361
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 9.0
+  - - Permanent Residence or Adjust Status
+    - - 343.594
+      - 574.5660000000001
+      - 718.855
+      - 727.855
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 9.000000000000028
+  - - ! 'START HERE - Type or Print '
+    - - 36
+      - 169.34000000000003
+      - 695.748
+      - 704.748
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 9.0
+  - - Part 1.  Information About You
+    - - 36
+      - 185.10500000000008
+      - 681.05
+      - 689.05
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 8.0
+  - - Middle Name
+    - - 281.264
+      - 336.53399999999993
+      - 665.727
+      - 673.727
+    - - TimesNewRomanPS-BoldItalicMT
+      - TrueType
+      - 8.0
+  - - Country of Citizenship/Nationality
+    - - 37
+      - 176.45000000000002
+      - 526.846
+      - 534.846
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 8.0
+  - - Country of Birth
+    - - 220.577
+      - 287.2469999999999
+      - 555.087
+      - 563.087
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'A # '
+    - - 313.712
+      - 330.932
+      - 525.956
+      - 533.956
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'U.S. Social Security # '
+    - - 185.805
+      - 276.91499999999996
+      - 526.843
+      - 534.843
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'I-94 #'
+    - - 220.577
+      - 244.73700000000002
+      - 498.414
+      - 506.414
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - State
+    - - 204.562
+      - 224.562
+      - 582.292
+      - 591.292
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 9.0
+  - - ! 'Address '
+    - - 37
+      - 74.5
+      - 637.454
+      - 646.454
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 9.0
+  - - C/O (
+    - - 37
+      - 59.5
+      - 609.915
+      - 618.915
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 9.0
+  - - ! 'Apt. #'
+    - - 351.447
+      - 376.447
+      - 637.451
+      - 645.451
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 8.0
+  - - ! 'Date of Last Arrival '
+    - - 37
+      - 120.30999999999999
+      - 499.302
+      - 513.302
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 14.0
+  - - Current USCIS Status
+    - - 37
+      - 125.34
+      - 471.763
+      - 485.763
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 14.0
+  - - ! 'I am applying for an adjustment to permanent resident status because:'
+    - - 36.736999999999995
+      - 338.94699999999995
+      - 425.923
+      - 435.923
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 10.0
+  - - ! 'Part 2.  Application Type  '
+    - - 36
+      - 160.36600000000004
+      - 440.414
+      - 450.414
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'I am already a permanent resident and am applying to have the date I was
+      granted '
+    - - 36
+      - 399.33000000000015
+      - 127.252
+      - 138.252
+    - - TimesNewRomanPS-BoldMT
+      - TrueType
+      - 11.0
+  - - ! 'permanent residence adjusted to the date I originally arrived in the United
+      States as '
+    - - 36
+      - 403.7599999999998
+      - 117.252
+      - 127.252
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'a nonimmigrant or parolee, or as of May 2, 1964, whichever date is later,
+      and:  '
+    - - 36
+      - 380.9699999999998
+      - 107.252
+      - 117.252
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - (Check one)
+    - - 36
+      - 84.58999999999999
+      - 97.252
+      - 107.252
+    - - TimesNewRomanPS-ItalicMT
+      - TrueType
+      - 10.0
+  - - ! 'i.        '
+    - - 36.0
+      - 61.28
+      - 82.292
+      - 92.292
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'a.        '
+    - - 36.0
+      - 63.5
+      - 409.842
+      - 419.842
+    - - TimesNewRomanPS-ItalicMT
+      - TrueType
+      - 10.0
+  - - ! 'that has been approved. (Attach a copy of the approval notice, or a relative,
+      special '
+    - - 63.36
+      - 404.93999999999966
+      - 399.842
+      - 409.842
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - ! 'immigrant juvenile, or special immigrant military visa petition filed with
+      this '
+    - - 63.36
+      - 381.69999999999965
+      - 389.842
+      - 399.842
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+  - - application that will give you an immediately available visa number, if approved.)
+    - - 63.36
+      - 399.70999999999975
+      - 379.842
+      - 389.842
+    - - TimesNewRomanPSMT
+      - TrueType
+      - 10.0
+third_form.pdf:
+  :test_font_stack:
+  - - SZKDGN+MyriadPro-Bold
+    - Type1
+    - 12.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - XNGNBJ+MyriadPro-Regular
+    - Type0
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - CWILQT+MyriadPro-It
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - XNGNBJ+MyriadPro-Regular
+    - Type0
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Bold
+    - Type1
+    - 12.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - XNGNBJ+MyriadPro-Regular
+    - Type0
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - XNGNBJ+MyriadPro-Regular
+    - Type0
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Bold
+    - Type1
+    - 12.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - XNGNBJ+MyriadPro-Regular
+    - Type0
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.0
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.25
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 9.799999999999997
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 10.800000000000011
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000023
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.599999999999994
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000001
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000001
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000001
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000001
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000001
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000001
+  - - SZKDGN+MyriadPro-Regular
+    - Type1
+    - 7.600000000000001
+  :test_content_blocks_with_sizes:
+  - - Example of an Interactive PDF Form
+    - - 211.0933
+      - 400.8372999999998
+      - 742.1804
+      - 754.1804
+    - - SZKDGN+MyriadPro-Bold
+      - Type1
+      - 12.0
+  - - An interactive PDF form will contain form fields for you to fill in. How can
+      you tell if the form is flat or fillable?
+    - - 35.9643
+      - 483.1443000000002
+      - 726.1804
+      - 736.1804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - ! 'Look at the top of the PDF for the purple document message bar. This bar
+      lets you highlight fields and may provide additional '
+    - - 41.9643
+      - 563.6842999999998
+      - 711.1804
+      - 721.1804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - ! 'information and options. Click the words '
+    - - 41.9643
+      - 212.8343000000001
+      - 699.1804
+      - 709.1804
+    - - XNGNBJ+MyriadPro-Regular
+      - Type0
+      - 10.0
+  - - ! 'Hover the Hand tool over an area that looks like it might be a field. If
+      the Hand changes to an I-beam or cursor you should be '
+    - - 41.9643
+      - 558.2943
+      - 684.1804
+      - 694.1804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - able to click in the field and type.
+    - - 41.9643
+      - 178.54430000000002
+      - 672.1804
+      - 682.1804
+    - - CWILQT+MyriadPro-It
+      - Type1
+      - 10.0
+  - - How can you make a flat form fillable or interactive?
+    - - 35.9643
+      - 311.0523000000002
+      - 649.7804
+      - 659.7804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - Creating interactive PDF forms requires Adobe Acrobat. The free Adobe Reader
+      does not provide this functionality.
+    - - 35.9643
+      - 509.1842999999999
+      - 633.7804
+      - 643.7804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - ! 'Use the '
+    - - 41.9643
+      - 75.4543
+      - 618.7804
+      - 628.7804
+    - - XNGNBJ+MyriadPro-Regular
+      - Type0
+      - 10.0
+  - - ! 'If you have Acrobat, not just the Adobe Reader, you can use the '
+    - - 41.964299999999994
+      - 306.2943
+      - 603.7804
+      - 613.7804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - Can I save my form with the data I entered?
+    - - 35.9643
+      - 264.07230000000004
+      - 581.3804
+      - 593.3804
+    - - SZKDGN+MyriadPro-Bold
+      - Type1
+      - 12.0
+  - - ! 'If you have Adobe Acrobat you can save the form data—simply save the document.
+      If you are using the free Adobe Reader it will '
+    - - 41.9643
+      - 574.8942999999998
+      - 565.3804
+      - 575.3804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - ! 'depend on whether the creator of your form enabled the form for saving form
+      data. The purple document message bar will say: '
+    - - 41.9643
+      - 571.2743000000003
+      - 553.3804
+      - 563.3804
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - “You can save data typed into this form” if saving has been enabled.
+    - - 41.9643
+      - 320.9743
+      - 541.3804
+      - 551.3804
+    - - XNGNBJ+MyriadPro-Regular
+      - Type0
+      - 10.0
+  - - HUMAN RESOURCES MANAGEMENT SYSTEM
+    - - 350.0858
+      - 528.3300500000001
+      - 446.8582
+      - 456.8582
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - EMPLOYEE S
+    - - 339.326
+      - 378.576
+      - 73.1986
+      - 83.1986
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - S
+    - - 200.7666
+      - 205.618
+      - 36.452
+      - 46.452
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - N
+    - - 30.1079
+      - 37.234300000000005
+      - 425.9
+      - 435.9
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - L
+    - - 30.076
+      - 33.683200000000014
+      - 392.925
+      - 402.925
+    - - XNGNBJ+MyriadPro-Regular
+      - Type0
+      - 10.0
+  - - F
+    - - 30.076
+      - 33.79720000000001
+      - 368.675
+      - 378.675
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - M
+    - - 30.076
+      - 36.206400000000016
+      - 344.675
+      - 354.675
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - TELEPHONE
+    - - 30.1079
+      - 84.02870000000004
+      - 305.775
+      - 315.775
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - E
+    - - 30.1079
+      - 35.441500000000005
+      - 156.15
+      - 168.15
+    - - SZKDGN+MyriadPro-Bold
+      - Type1
+      - 12.0
+  - - S
+    - - 30.1079
+      - 35.432300000000005
+      - 208.65
+      - 218.65
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - MALE
+    - - 349.576
+      - 367.87600000000003
+      - 191.9388
+      - 201.9388
+    - - XNGNBJ+MyriadPro-Regular
+      - Type0
+      - 10.0
+  - - FEMALE
+    - - 349.5748
+      - 375.16720000000004
+      - 179.9384
+      - 189.9384
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - M
+    - - 440.6938
+      - 446.8242
+      - 179.9869
+      - 189.9869
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.0
+  - - STREET
+    - - 339.326
+      - 362.45600000000013
+      - 392.8258
+      - 402.0758
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.25
+  - - ! 'HOME '
+    - - 30.076
+      - 51.77240000000007
+      - 271.9
+      - 279.5
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 7.599999999999994
+  - - N
+    - - 339.326
+      - 344.34680000000003
+      - 248.1571
+      - 255.7571
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 7.599999999999994
+  - - PHONE
+    - - 339.326
+      - 362.4008000000001
+      - 272.7286
+      - 282.5286
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - H
+    - - 40.5759
+      - 45.55109999999999
+      - 140.689
+      - 150.48899999999998
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - TRADE
+    - - 40.5759
+      - 62.05189999999998
+      - 128.689
+      - 138.48899999999998
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - ! ' COLLEGE'
+    - - 40.5
+      - 69.59519999999998
+      - 116.689
+      - 126.48899999999999
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - ! '  '
+    - - 40.5
+      - 77.01719999999997
+      - 104.689
+      - 114.48899999999999
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - ! '  '
+    - - 40.5
+      - 77.01719999999997
+      - 92.689
+      - 102.48899999999999
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - ! '  MASTER'
+    - - 40.5
+      - 102.44719999999997
+      - 80.689
+      - 90.48899999999999
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - ! '  PROFESSIONAL'
+    - - 40.5
+      - 125.14679999999994
+      - 68.689
+      - 78.48899999999999
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 9.799999999999997
+  - - P
+    - - 40.5759
+      - 44.619099999999996
+      - 56.689
+      - 67.489
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.800000000000011
+  - - O
+    - - 40.5759
+      - 45.8323
+      - 44.689
+      - 55.48900000000001
+    - - SZKDGN+MyriadPro-Regular
+      - Type1
+      - 10.800000000000011
