@@ -16,7 +16,7 @@ class PDF::Reader::Forms
 
   attr_accessor :reader, :options
   attr_reader :form_fields, :fields_found, :textboxes, :radiobuttons, :selectboxes, :linkboxes,
-    :field_headers, :stack_of_fonts, :content_blocks
+    :field_headers, :stack_of_fonts, :content_blocks, :content
 
   # +source+ is a file name or stream-like object. Just like in PDF::Reader
   # Supported +options+ include:
@@ -24,11 +24,8 @@ class PDF::Reader::Forms
   def initialize(source, options={})
     @options = options
     @reader = PDF::Reader.new(source)
+    @content_blocks ||= []
   end
-
-  # def form_fields
-  #   self.
-  # end
 
   # Returns the precision required in y positions.
   # This is the fuzz range for interpreting y positions.
@@ -61,13 +58,22 @@ class PDF::Reader::Forms
     end
   end
 
+  def content_blocks(page=1)
+    if @content_blocks[page]
+      @content_blocks[page]
+    else
+      load_content(page)
+      @content_blocks[page]
+    end
+  end
+
   private
 
   def load_content(page)
     receiver = PDF::Reader::PositionOfTextReceiver.new
     reader.page(page).walk(receiver)
-    @content_blocks = receiver.content_blocks_with_sizes
     @stack_of_fonts = receiver.stack_of_fonts
+    @content_blocks[page] = receiver.content_blocks_with_sizes
     receiver.content
   end
 end
