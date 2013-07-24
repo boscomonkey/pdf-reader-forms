@@ -15,18 +15,6 @@ module PdfSamplesHelper
     Dir[pdf_samples_path.join("*.pdf")]
   end
 
-  def pdf_sample_expectations_path
-    pdf_samples_path.join('expectations.yml')
-  end
-
-  def pdf_sample_expectations
-    begin
-      YAML.load_file pdf_sample_expectations_path
-    rescue
-      []
-    end
-  end
-
   def make_pdf_samples
     require 'prawn'
     puts "Making PDF samples for tests.."
