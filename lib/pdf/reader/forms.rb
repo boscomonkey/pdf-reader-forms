@@ -1,27 +1,33 @@
-# Class for reading structured text content. Some of this Class#methods were forked from PDF::Reader::Turtletext. See LICENSE file.
+# Class for reading structured text content. Some of this Class#methods were forked from
+# PDF::Reader::Turtletext. See LICENSE file.
 #
 # Typical usage:
 #
-#   reader = PDF::Reader::Forms.new(pdf_filename)
-#   page = 1
-#   heading_position = reader.text_position(/transaction table/i)
-#   next_section = reader.text_position(/transaction summary/i)
-#   transaction_rows = reader.text_in_region(
-#     heading_position[x], 900,
-#     heading_position[y] + 1,next_section[:y] -1
-#   )
+#     TODO
 #
 class PDF::Reader::Forms
-  attr_reader :reader
-  attr_reader :options
+  require File.expand_path(File.dirname(__FILE__) + '/forms/form_fields.rb')
+  require File.expand_path(File.dirname(__FILE__) + '/forms/positioning.rb')
+  require File.expand_path(File.dirname(__FILE__) + '/forms/content_blocks.rb')
 
-  # +source+ is a file name or stream-like object
+  include Positioning
+  include ContentBlocks # TODO: This should be optional
+  include FormFields
+
+  attr_accessor :reader, :options
+  attr_reader :form_fields, :fields_found, :textboxes, :radiobuttons, :selectboxes, :linkboxes, :field_headers
+
+  # +source+ is a file name or stream-like object. Just like in PDF::Reader
   # Supported +options+ include:
   # * :y_precision
   def initialize(source, options={})
     @options = options
     @reader = PDF::Reader.new(source)
   end
+
+  # def form_fields
+  #   self.
+  # end
 
   # Returns the precision required in y positions.
   # This is the fuzz range for interpreting y positions.
@@ -43,28 +49,6 @@ class PDF::Reader::Forms
     end
   end
 
-  # Returns an Array with fuzzed positioning, ordered by decreasing y position. Row content order by x position.
-  #   [ fuzzed_y_position, [[x_position,content]] ]
-  # Given +input+ as a hash:
-  #   { y_position: { x_position: content}}
-  # Fuzz factors: +y_precision+
-  def fuzzed_y(input)
-    output = []
-    input.keys.sort.reverse.each do |precise_y|
-      matching_y = output.map(&:first).select{|new_y| (new_y - precise_y).abs < y_precision }.first || precise_y
-      y_index = output.index{|y| y.first == matching_y }
-      new_row_content = input[precise_y].to_a
-      if y_index
-        row_content = output[y_index].last
-        row_content += new_row_content
-        output[y_index] = [matching_y,row_content.sort{|a,b| a.first <=> b.first }]
-      else
-        output << [matching_y,new_row_content.sort{|a,b| a.first <=> b.first }]
-      end
-    end
-    output
-  end
-
   # Returns positional text content collection as a hash with precise x,y positioning:
   #   { y_position: { x_position: content}}
   def precise_content(page=1)
@@ -76,57 +60,12 @@ class PDF::Reader::Forms
     end
   end
 
-  # Returns an array of text elements found within the x,y limits on +page+:
-  # * x ranges from +xmin+ (left of page) to +xmax+ (right of page)
-  # * y ranges from +ymin+ (bottom of page) to +ymax+ (top of page)
-  # When +inclusive+ is false (default) the x/y limits do not include the actual x/y value.
-  # Each line of text is an array of the seperate text elements found on that line.
-  #   [["first line first text", "first line last text"],["second line text"]]
-  def text_in_region(xmin,xmax,ymin,ymax,page=1,inclusive=false)
-    return [] unless xmin && xmax && ymin && ymax
-    text_map = content(page)
-    box = []
-
-    text_map.each do |y,text_row|
-      if inclusive ? (y >= ymin && y <= ymax) : (y > ymin && y < ymax)
-        row = []
-        text_row.each do |x,element|
-          if inclusive ? (x >= xmin && x <= xmax) : (x > xmin && x < xmax)
-            row << element
-          end
-        end
-        box << row unless row.empty?
-      end
-    end
-    box
-  end
-
-  # Returns the position of +text+ on +page+
-  #   {x: val, y: val }
-  # +text+ may be a string (exact match required) or a Regexp.
-  # Returns nil if the text cannot be found.
-  def text_position(text,page=1)
-    item = if text.class <= Regexp
-      content(page).map do |k,v|
-        if x = v.reduce(nil){|memo,vv|  memo = (vv[1] =~ text) ? vv[0] : memo  }
-          [k,x]
-        end
-      end
-    else
-      content(page).map {|k,v| if x = v.rassoc(text) ; [k,x] ; end }
-    end
-    item = item.compact.flatten
-    unless item.empty?
-      { :x => item[1], :y => item[0] }
-    end
-  end
-
   private
 
-    def load_content(page)
-      receiver = PDF::Reader::PositionOfTextReceiver.new
-      reader.page(page).walk(receiver)
-      receiver.content
-    end
-
+  def load_content(page)
+    receiver = PDF::Reader::PositionOfTextReceiver.new
+    reader.page(page).walk(receiver)
+    @content_blocks = receiver.content_blocks_with_sizes
+    receiver.content
+  end
 end
