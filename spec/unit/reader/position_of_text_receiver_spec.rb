@@ -39,8 +39,8 @@ describe PDF::Reader::PositionOfTextReceiver do
 
     describe "#content_blocks_with_sizes" do
       {
-        'junk_prefix.pdf' => [[["Helvetica", "Type1", 12.0], "This PDF contains junk before the %-PDF marker"]],
-        'hello_world.pdf' => [[["Helvetica", "Type1", 12.0], "Hello World"]]
+        'junk_prefix.pdf' => [["This PDF contains junk before the %-PDF marker", [36, 298.992, 747.384, 759.384], ["Helvetica", "Type1", 12.0]]],
+        'hello_world.pdf' => [["Hello World", [36, 97.824, 747.384, 759.384], ["Helvetica", "Type1", 12.0]]]
       }.each do |sample_file,expected_content_blocks|
         context "Content_blocks_with_sizes for #{sample_file}" do
           let(:source) { pdf_sample(sample_file)}
@@ -53,7 +53,7 @@ describe PDF::Reader::PositionOfTextReceiver do
 
   context "with PDF Forms" do
     describe "#stack_of_fonts" do
-      pdf_forms_expectations.each do |forms_file,expectations|
+      pdf_forms_receiver_expectations.each do |forms_file,expectations|
         context "Content for #{forms_file}" do
           let(:source) { pdf_forms(forms_file) }
           subject { receiver.stack_of_fonts }
@@ -63,7 +63,7 @@ describe PDF::Reader::PositionOfTextReceiver do
     end
 
     describe "#content_blocks_with_sizes" do
-      pdf_forms_expectations.each do |forms_file,expectations|
+      pdf_forms_receiver_expectations.each do |forms_file,expectations|
         context "Content for #{forms_file}" do
           let(:source) { pdf_forms(forms_file) }
           subject { receiver.content_blocks_with_sizes }

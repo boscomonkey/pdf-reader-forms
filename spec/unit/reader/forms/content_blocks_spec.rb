@@ -73,17 +73,12 @@ describe PDF::Reader::Forms::ContentBlocks do
   end
 
   context "with PDF Forms" do
-    let(:source) { pdf_forms(forms_file) }
-
-    describe "#content blocks rendered" do
-      {
-
-      }.each do |forms_file,expectations|
-        context "Content for #{forms_file}" do
+    describe "#content_blocks_with_sizes" do
+      pdf_forms_blocks_expectations.each do |forms_file,expectations|
+        context "Precise Content for #{forms_file}" do
           let(:source) { pdf_forms(forms_file) }
-          let(:given_content_blocks) { expected_page_content[:source_page_content] }
-          subject { forms_reader.content }
-          # it { should eql(expected_page_content) }
+          subject { forms_reader.content(1) }
+          it { should eql(expectations[:test_precise_content])}
         end
       end
     end
