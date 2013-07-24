@@ -2,8 +2,8 @@ module PDF::Reader::Forms::FormFields
 
   attr_reader :form_fields, :fields_found, :textboxes, :radiobuttons, :selectboxes, :linkboxes
 
-  def get_form_fields
-    @form_fields ||= locate_the_form_fields
+  def get_form_fields(page=1)
+    @form_fields ||= locate_the_form_fields(page)
     @form_fields[:textboxes] ||= @textboxes if @textboxes
     @form_fields[:radiobuttons] ||= @radiobuttons if @radiobuttons
     @form_fields[:selectboxes] ||= @selectboxes if @selectboxes
@@ -57,7 +57,7 @@ module PDF::Reader::Forms::FormFields
     end
   end
 
-  def locate_the_form_fields
+  def locate_the_form_fields(page=1)
     if @fields_found == nil
       @form_fields = {}
       if assemble_the_annotations

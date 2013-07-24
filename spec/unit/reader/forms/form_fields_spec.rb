@@ -10,18 +10,15 @@ describe PDF::Reader::Forms::FormFields do
 
     describe 'to locate the form fields' do
       describe 'locate the fields return' do
-        before { forms_reader.content(1) }
         subject { forms_reader.locate_the_form_fields }
         it { should be false }
       end
       describe 'to ensure annotations guard assembled' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.fields_found }
         it { should be false }
       end
       describe 'to locate the fields after already running once' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.locate_the_form_fields }
         it { should be false }
@@ -32,37 +29,31 @@ describe PDF::Reader::Forms::FormFields do
 
     describe 'to find individual content types' do
       describe 'locate the textboxes' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.get_textboxes }
         it { should eql([]) }
       end
       describe 'locate the radiobuttons' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.get_radiobuttons }
         it { should eql([]) }
       end
       describe 'locate the selectboxes' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.get_selectboxes }
         it { should eql([]) }
       end
       describe 'locate the linkboxes' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.get_linkboxes }
         it { should eql([]) }
       end
       describe 'locate the field headers' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.get_field_headers }
         it { should eql([]) }
       end
       describe 'locate the form fields' do
-        before { forms_reader.content(1) }
         before { forms_reader.locate_the_form_fields }
         subject { forms_reader.get_form_fields }
         it { should eql({}) }
@@ -73,7 +64,6 @@ describe PDF::Reader::Forms::FormFields do
   context "with PDF Forms that have valid Form Fields" do
     let(:source) { pdf_forms('third_form.pdf') }
     before do
-      forms_reader.content(1)
       forms_reader.find_the_form_fields
     end
 
