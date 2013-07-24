@@ -9,31 +9,43 @@
 #
 class PDF::Reader::PositionOfTextReceiver < PDF::Reader::PageTextReceiver
 
+  attr_reader :stack_of_fonts, :content_blocks_with_sizes
+
+  def page=(page)
+    super
+    @content = {}
+    @stack_of_fonts = []
+  end
+
   # record text that is drawn on the page
   def show_text(string)
-    internal_show_text(string)
-    positional_transformer(string)
+    @startx, @starty = @state.trm_transform(0,0)
+    super
+    @endx, @endy = @state.trm_transform(0,0)
+    positional_transformer(string.gsub("\n", ""))
   end
 
   def show_text_with_positioning(params)
-    params.each do |arg|
-      if arg.is_a?(String)
-        internal_show_text(arg)
-        positional_transformer(arg)
-      else
-        @state.process_glyph_displacement(0, arg, false)
-      end
-    end
+    @startx, @starty= @state.trm_transform(0,0)
+    super
+    @endx, @endy = @state.trm_transform(0,0)
+    string = ''
+    params.each{ |arg| string << arg.gsub("\n", "") if arg.is_a?(String) }
+    positional_transformer(string)
   end
 
   def positional_transformer(string)
-    temp_hash = {}
-    chars = @state.current_font.to_utf8(string)
-    newx, newy = @state.trm_transform(0,0)
-    temp_hash[newy] ||= {}
-    temp_hash[newy][newx] ||= ''
-    temp_hash[newy][newx] = chars || ''
-    @content << temp_hash if chars
+    chars = [ @endx, @state.current_font.to_utf8( string ) ]
+    @content[@starty] ||= {}
+    @content[@starty][@startx] = chars
+    font_grabber
+  end
+
+  def font_grabber
+    font = @state.current_font.basefont.to_s
+    size = @state.font_size
+    description = @state.current_font.subtype.to_s
+    @stack_of_fonts << [ font, description, size ]
   end
 
   # override PageTextReceiver content accessor .
@@ -43,9 +55,15 @@ class PDF::Reader::PositionOfTextReceiver < PDF::Reader::PageTextReceiver
   #     y_coord=>{x_coord=>text, x_coord=>text }
   #   }
   def content
-    @content = @content.inject({}) do |hash, element|
-      hash.merge(element){|key,oldvalue,newvalue| oldvalue.merge(newvalue)}
-    end
+    @content
   end
 
+  def content_blocks_with_sizes
+    unless @content_blocks_with_sizes
+      strings = []
+      @content.each_value{|v| v.each_value{|vv| strings << vv.last}}
+      @content_blocks_with_sizes = @stack_of_fonts.zip(strings)
+    end
+    @content_blocks_with_sizes
+  end
 end
