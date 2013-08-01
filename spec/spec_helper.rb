@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 require 'pdf-reader-forms'
 
 # Requires supporting files with custom matchers and macros, etc,
